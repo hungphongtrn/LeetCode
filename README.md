@@ -14,7 +14,7 @@ This repository contains solutions to LeetCode problems in Python, organized by 
 * The code itself, with detailed comments explaining each step
 
 ### The list
-1. [Two Sum - Easy](LeetCode/Two Sum/)
+1. [Two Sum-Easy](https://github.com/yuufong/LeetCode/tree/main/Two%20Sum)
 
 ## Getting Started
 To get started with this repository, you will need:
