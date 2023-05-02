@@ -15,6 +15,7 @@ This repository contains solutions to LeetCode problems in Python, organized by 
 
 ### The list
 1. [Two Sum-Easy](https://github.com/yuufong/LeetCode/tree/main/Two%20Sum)
+2. [Roman to Integer - Easy](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer)
 
 ## Getting Started
 To get started with this repository, you will need:
