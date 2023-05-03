@@ -24,7 +24,7 @@ Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 Output: [8,9,9,9,0,0,0,1]
 ```
 ## Solutions
-### [Solution 1](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer/add_2_numb.py)
+### [Solution 1](https://github.com/yuufong/LeetCode/blob/main/Add%20two%20Numbers/add_2_numb.py)
 #### Thought Process
 A elementary math problem that requires you to add 2 numbers, therefore, the easiest way is to add digit-by-digit. The sum of 2 digits might result in a carry of 0 or 1, which will be transfered to the sum of the next 2 digits. That's all.
 However, implementation with the linked list data structure is the reason this elementary math is leveled as medium. I have made comments in my code regarding "coding" difficulty.
