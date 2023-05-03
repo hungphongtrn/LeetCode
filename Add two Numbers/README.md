@@ -29,3 +29,5 @@ Output: [8,9,9,9,0,0,0,1]
 A elementary math problem that requires you to add 2 numbers, therefore, the easiest way is to add digit-by-digit. The sum of 2 digits might result in a carry of 0 or 1, which will be transfered to the sum of the next 2 digits. That's all.
 However, implementation with the linked list data structure is the reason this elementary math is leveled as medium. I have made comments in my code regarding "coding" difficulty.
 #### Complexity $O(max(len(l1||l2)))$
+#### Comments
+I have also made some basic functional LinkedList and ListNode class for easier visualization in my local machine.
