@@ -45,9 +45,9 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ### [Solution 1](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer/roman_2_int_hash.py)
 #### Thought Process
 Since Roman numerals are usually written largest to smallest from left to right and Subtraction only occurs if a numeral is smaller than its immediate right, therefore, we can follow this pattern to sum.
-#### Complexity $O(n)$ and $O(1) for space since the hashTable is fixed
+#### Complexity $O(n)$ and $O(1)$ for space since the hashTable is fixed
 
 ### [Solution 2](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer/roman_2_int_convert.py)
 #### Thought Process
 Basically convert all subtraction case to addition case then perform normal addition
-#### Complexity $O(n)$ and $O(1) for space. 
+#### Complexity $O(n)$ and $O(1)$ for space. 
