@@ -47,3 +47,5 @@ If the indices of the two elements are the same, we look for the second occurren
 
 If the sum is less than the target, we increment the left pointer, since the sum can only increase by moving to a larger element. If the sum is greater than the target, we decrement the right pointer, since the sum can only decrease by moving to a smaller element.
 #### Complexity: $O(nlog(n))$ due to initial sorting but $O(1)$ since we don't use any additional data structures
+
+
