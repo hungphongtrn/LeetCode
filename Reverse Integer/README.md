@@ -26,7 +26,7 @@ Input: x = 120
 Output: 214.
 ```
 ## Solutions
-### [Solution 1]()
+### [Solution 1](https://github.com/yuufong/LeetCode/blob/main/Reverse%20Integer/reverse.py)
 #### Thought Process
 I think this is a fairly simple problem. I just convert the integer into a string, then read it from the back, add a minus at the start if it is negative. Another approach might be extracting each digit by dividing by 10 and take the surplus, reverse it. 
 #### Complexity $O(n)$ 
