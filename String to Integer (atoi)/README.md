@@ -64,7 +64,7 @@ The parsed integer is 4193.
 Since 4193 is in the range [-231, 231 - 1], the final result is 4193.
 ```
 ## Solutions
-### [Solution 1]()
+### [Solution 1](https://github.com/yuufong/LeetCode/blob/main/String%20to%20Integer%20(atoi)/myAtoi.py)
 #### Thought Process
 This code converts a given string to an integer (i.e., a number) using specific rules. It removes any leading or trailing white space characters from the string, determines the sign of the number (positive or negative), and then converts each digit in the string to an integer. It stops conversion if it encounters any non-digit character. The converted number is then returned, but with a limit to avoid overflow.
 #### Complexity $O(n)$ 
