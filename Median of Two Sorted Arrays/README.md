@@ -21,8 +21,11 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 ```
 
 ## Solutions
-### [Solution 1]()
+### [Solution 1](https://github.com/yuufong/LeetCode/blob/main/Median%20of%20Two%20Sorted%20Arrays/findMedianSortedArrays.py)
 #### Thought Process
 At first, I planned to use the merge part of Merge Sort to solve this problem. However, I realize that the complexity for that will be linear as $O(m + n)$. The required complexity of $O(log (m+n))$ suggested me to use binary search to deal with it. 
 Well, to be a little bit more truthful, I was stuck at that point - "Binary Search", so I needed a little push from [GeeksforGeeks](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
 #### Complexity: $O(log (m+n))$ and $O(1)$ for space
+
+## Bonus
+I have also add simple & straight-forward implementations for [Binary Search](https://github.com/yuufong/LeetCode/blob/main/Median%20of%20Two%20Sorted%20Arrays/binarySearch.py) and [Merge Sort](https://github.com/yuufong/LeetCode/blob/main/Median%20of%20Two%20Sorted%20Arrays/MergSort.py) in the directory
