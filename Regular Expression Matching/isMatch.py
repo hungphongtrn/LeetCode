@@ -38,9 +38,7 @@ class Solution(object):
             # checking next character of the the string and pattern
             return match_char and self.isMatch(s[1:], p[1:])
         
-        
-        
-        
+                
 solution = Solution()
 s = "ab"
 p = ".*"
