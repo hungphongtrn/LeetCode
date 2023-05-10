@@ -1,5 +1,5 @@
 # LeetCode Challenge Solutions in Python
-This repository contains my solutions to LeetCode coding challenges in Python.
+This repository contains my solutions to LeetCode coding challenges in Python. The question stack I am using is [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/)
 
 ## Introduction
 LeetCode is a popular platform for software engineers to practice coding problems and improve their coding skills. As a Machine Learning Engineer, I've been using LeetCode to improve my coding skills and learn new algorithms and data structures.
@@ -17,7 +17,10 @@ This repository contains solutions to LeetCode problems in Python, organized by 
 1. [Two Sum-Easy](https://github.com/yuufong/LeetCode/tree/main/Two%20Sum)
 2. [Add two Numbers - Medium](https://github.com/yuufong/LeetCode/tree/main/Add%20two%20Numbers)
 3. [Longest Substring Without Repeating Characters - Medium](https://github.com/yuufong/LeetCode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters%20)
-4. [Median of Two Sorted Arrays](https://github.com/yuufong/LeetCode/tree/main/Median%20of%20Two%20Sorted%20Arrays)
+4. [Median of Two Sorted Arrays - Hard](https://github.com/yuufong/LeetCode/tree/main/Median%20of%20Two%20Sorted%20Arrays)
+5. [Longest Palindromic Substring - Medium](https://github.com/yuufong/LeetCode/tree/main/Longest%20Palindromic%20Substring)
+6. [Reverse Integer - Medium](https://github.com/yuufong/LeetCode/tree/main/Reverse%20Integer)
+7. [String to Integer (atoi) - Medium](https://github.com/yuufong/LeetCode/tree/main/String%20to%20Integer%20(atoi))
 13. [Roman to Integer - Easy](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer)
 
 ## Getting Started
