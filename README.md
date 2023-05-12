@@ -21,6 +21,7 @@ This repository contains solutions to LeetCode problems in Python, organized by 
 5. [Longest Palindromic Substring - Medium](https://github.com/yuufong/LeetCode/tree/main/Longest%20Palindromic%20Substring)
 6. [Reverse Integer - Medium](https://github.com/yuufong/LeetCode/tree/main/Reverse%20Integer)
 7. [String to Integer (atoi) - Medium](https://github.com/yuufong/LeetCode/tree/main/String%20to%20Integer%20(atoi))
+8. [Regular Expression Matching - Hard](https://github.com/yuufong/LeetCode/tree/main/Regular%20Expression%20Matching)
 13. [Roman to Integer - Easy](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer)
 
 ## Getting Started

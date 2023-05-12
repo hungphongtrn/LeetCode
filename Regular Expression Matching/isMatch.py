@@ -38,10 +38,14 @@ class Solution(object):
             # checking next character of the the string and pattern
             return match_char and self.isMatch(s[1:], p[1:])
         
-        
-        
-        
+                
 solution = Solution()
+<<<<<<< HEAD
 s = "aaaaaaaaaaaaaaaaaaab"
 p = "a*a*a*a*a*a*a*a*a*a*"
 print(solution.isMatch(s, p))
+=======
+s = "ab"
+p = ".*"
+print(solution.isMatch(s, p))
+>>>>>>> 72836093937fd049ed0e34bee03c018e27eceaf8
