@@ -42,6 +42,6 @@ class Solution(object):
         
         
 solution = Solution()
-s = "ab"
-p = ".*"
+s = "aaaaaaaaaaaaaaaaaaab"
+p = "a*a*a*a*a*a*a*a*a*a*"
 print(solution.isMatch(s, p))
