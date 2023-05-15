@@ -34,7 +34,7 @@ Output: [[0,0,0]]
 Explanation: The only possible triplet sums up to 0.
 ```
 ## Solutions
-### [Solution 1]()
+### [Solution 1](https://github.com/yuufong/LeetCode/tree/main/3Sum)
 #### Thought Process
 The solution is around find the complement of the either a number or a sum of a pair. Therefore, first divide the list of nums into zeros, negative, and positive numbers lists. First we check the case if there're 1 zero in a triplets, finding two numbers, each from negative and positive lists, which are complementary. We continue checking for the triplets containing 3 zeros. Finally, we find the complement of every combinations of 2 elements that either come from negative or positive lists.
 #### Complexity $O(n^2)$ 
