@@ -19,10 +19,13 @@ This repository contains solutions to LeetCode problems in Python, organized by 
 3. [Longest Substring Without Repeating Characters - Medium](https://github.com/yuufong/LeetCode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters%20)
 4. [Median of Two Sorted Arrays - Hard](https://github.com/yuufong/LeetCode/tree/main/Median%20of%20Two%20Sorted%20Arrays)
 5. [Longest Palindromic Substring - Medium](https://github.com/yuufong/LeetCode/tree/main/Longest%20Palindromic%20Substring)
-6. [Reverse Integer - Medium](https://github.com/yuufong/LeetCode/tree/main/Reverse%20Integer)
-7. [String to Integer (atoi) - Medium](https://github.com/yuufong/LeetCode/tree/main/String%20to%20Integer%20(atoi))
-8. [Regular Expression Matching - Hard](https://github.com/yuufong/LeetCode/tree/main/Regular%20Expression%20Matching)
+7. [Reverse Integer - Medium](https://github.com/yuufong/LeetCode/tree/main/Reverse%20Integer)
+8. [String to Integer (atoi) - Medium](https://github.com/yuufong/LeetCode/tree/main/String%20to%20Integer%20(atoi))
+10. [Regular Expression Matching - Hard - In Progress](https://github.com/yuufong/LeetCode/tree/main/Regular%20Expression%20Matching)
+11. [Containers With Most Water - Medium](https://github.com/yuufong/LeetCode/tree/main/Container%20With%20Most%20Water)
 13. [Roman to Integer - Easy](https://github.com/yuufong/LeetCode/blob/main/Roman%20to%20Integer)
+14. [Longest Common Prefix - Easy](https://github.com/yuufong/LeetCode/tree/main/Longest%20Common%20Prefix)
+15. [3Sum - Medium](https://github.com/yuufong/LeetCode/tree/main/3Sum)
 
 ## Getting Started
 To get started with this repository, you will need:
